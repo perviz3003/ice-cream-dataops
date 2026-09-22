@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: Workflow to extract data points from the Ice Cream API and store them in the data lake.
